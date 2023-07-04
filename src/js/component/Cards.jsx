@@ -7,7 +7,7 @@ export const Cards = () => {
 
             <div className="col">
                 <div className="card">
-                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" role="img" aria-label="Placeholder:500 x 325" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <svg className="bd-placeholder-img card-img-top" width="100%" height="225" role="img" aria-label="Placeholder:500 x 325" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <rect width="100%" height="100%" fill="#868e96"></rect>
                         <text x="50%" y="50%" dy=".3em" fill="#dee2e6">500x325</text>
                     </svg>
@@ -23,7 +23,7 @@ export const Cards = () => {
 
             <div className="col">
                 <div className="card h-100">
-                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" role="img" aria-label="Placeholder:500 x 325" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <svg className="bd-placeholder-img card-img-top" width="100%" height="225" role="img" aria-label="Placeholder:500 x 325" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <rect width="100%" height="100%" fill="#868e96"></rect>
                         <text x="50%" y="50%" dy=".3em" fill="#dee2e6">500x325</text>
                     </svg>
@@ -39,7 +39,7 @@ export const Cards = () => {
 
             <div className="col">
                 <div className="card h-100">
-                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" role="img" aria-label="Placeholder:500 x 325" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <svg className="bd-placeholder-img card-img-top" width="100%" height="225" role="img" aria-label="Placeholder:500 x 325" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <rect width="100%" height="100%" fill="#868e96"></rect>
                         <text x="50%" y="50%" dy=".3em" fill="#dee2e6">500x325</text>
                     </svg>
@@ -55,7 +55,7 @@ export const Cards = () => {
 
             <div className="col">
                 <div className="card h-100">
-                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" role="img" aria-label="Placeholder:500 x 325" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <svg className="bd-placeholder-img card-img-top" width="100%" height="225" role="img" aria-label="Placeholder:500 x 325" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <rect width="100%" height="100%" fill="#868e96"></rect>
                         <text x="50%" y="50%" dy=".3em" fill="#dee2e6">500x325</text>
                     </svg>
