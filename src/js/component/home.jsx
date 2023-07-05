@@ -2,6 +2,7 @@ import React from "react";
 import { Cards } from "./Cards";
 import { NavBar } from "./Navbar";
 import { MyJumbo } from "./Jumbotron";
+import { Footer } from "./Footer";
 
 
 //include images into your bundle
@@ -19,7 +20,7 @@ const Home = () => {
 				<div className="cards"><Cards /></div>
 			</div>
 			
-			<div className="footer"></div>
+			<div className="footer"><Footer /></div>
 		
 		</div>
 	);
