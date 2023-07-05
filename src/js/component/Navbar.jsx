@@ -2,7 +2,7 @@ import React from "react";
 
 export function NavBar(){
     return(
-    <nav className="navbar navbar-dark navbar-expand bg-secondary ">
+    <nav className="navbar navbar-dark navbar-expand bg-dark">
         <div className="container-fluid ms-5">
             
             <span className="navbar-brand h1" style={{ marginLeft: "270px" }}>Start Bootstrap</span>
