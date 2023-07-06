@@ -5,10 +5,10 @@ export function NavBar(){
     <nav className="navbar navbar-dark navbar-expand bg-dark">
         <div className="container-fluid ms-5">
             
-            <span className="navbar-brand h1" style={{ marginLeft: "270px" }}>Start Bootstrap</span>
+            <span className="navbar-brand h1 ms-5 ps-5">Start Bootstrap</span>
 
-            <div className="collapse navbar-collapse justify-content-end me-5">
-            <ul className="navbar-nav mb-2 mb-lg-0" style={{ marginRight: "270px" }}>
+            <div className="collapse navbar-collapse justify-content-end me-5 pe-5">
+            <ul className="navbar-nav mb-2 mb-lg-0 me-5">
                 <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#"><strong>Home</strong></a>
                 </li>
