@@ -1,6 +1,7 @@
 //import react into the bundle
 import React from "react";
 import ReactDOM from "react-dom";
+import PropTypes from 'prop-types';
 
 
 // include your styles into the webpack bundle
