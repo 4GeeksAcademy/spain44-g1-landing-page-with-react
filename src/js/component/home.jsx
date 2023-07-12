@@ -14,14 +14,14 @@ const Home = () => {
 		<div className="text-center">
 
 			<div className="navBar"><NavBar /></div>
-			
+
 			<div className="container my-3">
 				<div className="jumbotrom m-3"><MyJumbo /></div>
 				<div className="cards"><Cards /></div>
 			</div>
-			
+
 			<div className="footer"><Footer /></div>
-		
+
 		</div>
 	);
 };
